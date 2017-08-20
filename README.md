@@ -1,0 +1,2 @@
+# ItnMS
+college management system
